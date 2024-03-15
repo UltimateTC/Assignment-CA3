@@ -1,0 +1,37 @@
+
+body {
+  font-family:Arial,sans-serif;
+  margin:2%;
+}
+    
+div {
+      border-radius:10px;
+      padding:2%;
+      margin:0 0 2%;
+    }
+    
+#header {
+  background-color:#ccc;
+  text-align:center;
+    }
+    
+#footer {
+      background-color:#ccc;
+      text-align:center;
+      clear:right;
+
+    }
+    
+#nav {
+  background-color:#ff0000;
+  text-align:center;
+  
+    }
+    
+    
+#main {
+      background-color:#4ca7e8;
+      width:74%;
+      
+    }
+    
